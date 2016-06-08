@@ -15,7 +15,7 @@ Roles:
 
 -   Navigator: Ensures that the team follows the activity.
 
--   Recorder: Records all answers and questions.\$
+-   Recorder: Records all answers and questions.
 
 Objectives
 ----------
@@ -82,7 +82,7 @@ Run the following commands.
 
 2.  What does `-ag` cause `git help` to do?
 
-3.  What does `git help ``[``command``]` do?
+3.  What does `git help ``[`command`]` do?
 
 Identify yourself
 -----------------
@@ -146,8 +146,7 @@ Use a plain text editor to create the following files:
 Run `git status` before and after each of these commands.
 
     git add .
-    git commit
-
+    git commit		Note:  Commit will open the vim editor; write a multi-line commit message, save and quit (press esc and then type :wq).
     git log
 
 1.  What does `git add .` do? What do you think `.` means?
