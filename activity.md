@@ -124,11 +124,11 @@ Basic commands
 folder. Put the names of your team in the file. Save and exit.
 
 2. Run `git status` before and after each of these commands.
-
-    git add names.txt
-    git commit –m “Add our names.”
-    git log
-
+```
+git add names.txt
+git commit –m “Add our names.”
+git log
+```
   1.  What kind of information does `git status` report?
 
   2.  What does `git add names.txt` do?
