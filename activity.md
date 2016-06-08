@@ -191,9 +191,7 @@ Run the following commands:
 2.  What command do you run to stage changes?
 
 3.  What command do you run to unstage changes?
-
-\*Run the following commands:\*
-
+Run the following commands:
     git diff
     git diff --cached
 
