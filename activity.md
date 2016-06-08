@@ -131,11 +131,11 @@ Run `git status` before and after each of these commands.
 
 1.  What kind of information does `git status` report?
 
-2.  What does `git add names.txt` do?
+1.  What does `git add names.txt` do?
 
-3.  What does `git commit -m "Add our names."` do?
+1.  What does `git commit -m "Add our names."` do?
 
-4.  What does `git log do`?
+1.  What does `git log do`?
 
 Use a plain text editor to create the following files:
 
@@ -152,9 +152,9 @@ Run `git status` before and after each of these commands.
 
 1.  What does `git add .` do? What do you think `.` means?
 
-2.  What does `git commit` (without -m) do?
+1.  What does `git commit` (without -m) do?
 
-3.  If you want to write a more detailed commit message (which is
+1.  If you want to write a more detailed commit message (which is
     good practice) what command would you use?
 
 Stage/Cache/Index
@@ -179,7 +179,7 @@ Run the following commands:
 1.  Below write each file name under the state that its changes are
     currently in. Compose a definition for each state.
 
--   **Staged**
+    **Staged**
 
     **Unstaged**
 
@@ -251,7 +251,7 @@ Run the following commands:
 
 2.  What is the difference between `--hard` and `--soft`?
 
-3.  What do you think `HEAD``^``1` means?
+3.  What do you think `HEAD^1` means?
 
 4.  What do you think `HEAD` means?
 
@@ -267,7 +267,7 @@ Helpful resources
 Copyright and Licensing
 -----------------------
 
-Copyright 2016, Darci Burdge and Stoney Jackson
+Copyright 2016, Darci Burdge and Stoney Jackson SOME RIGHTS RESERVED
 
 This work is licensed under the Creative Commons Attribution-ShareAlike
 4.0 International License. To view a copy of this license, visit
