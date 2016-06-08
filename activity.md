@@ -131,11 +131,11 @@ Run `git status` before and after each of these commands.
 
 1.  What kind of information does `git status` report?
 
-1.  What does `git add names.txt` do?
+2.  What does `git add names.txt` do?
 
-1.  What does `git commit -m "Add our names."` do?
+3.  What does `git commit -m "Add our names."` do?
 
-1.  What does `git log do`?
+4.  What does `git log do`?
 
 Use a plain text editor to create the following files:
 
@@ -150,11 +150,11 @@ Run `git status` before and after each of these commands.
 						   message, save and quit (press esc and then type :wq).
     git log
 
-1.  What does `git add .` do? What do you think `.` means?
+5.  What does `git add .` do? What do you think `.` means?
 
-1.  What does `git commit` (without -m) do?
+6.  What does `git commit` (without -m) do?
 
-1.  If you want to write a more detailed commit message (which is
+7.  If you want to write a more detailed commit message (which is
     good practice) what command would you use?
 
 Stage/Cache/Index
