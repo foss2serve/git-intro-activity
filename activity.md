@@ -120,22 +120,22 @@ location where you would like your repository stored.
 Basic commands
 --------------
 
-1. Use a plain text editor to create `names.txt` inside the `git-repo`
+Use a plain text editor to create `names.txt` inside the `git-repo`
 folder. Put the names of your team in the file. Save and exit.
 
-2. Run `git status` before and after each of these commands.
-```
-git add names.txt
-git commit –m “Add our names.”
-git log
-```
-  1.  What kind of information does `git status` report?
+Run `git status` before and after each of these commands.
 
-  2.  What does `git add names.txt` do?
+    git add names.txt
+    git commit –m “Add our names.”
+    git log
 
-  3.  What does `git commit -m "Add our names."` do?
+1.  What kind of information does `git status` report?
 
-  4.  What does `git log do`?
+2.  What does `git add names.txt` do?
+
+3.  What does `git commit -m "Add our names."` do?
+
+4.  What does `git log do`?
 
 Use a plain text editor to create the following files:
 
