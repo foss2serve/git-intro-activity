@@ -192,7 +192,7 @@ Run the following commands:
 
 3.  What command do you run to unstage changes?
 
-*Run the following commands:*
+\*Run the following commands:\*
 
     git diff
     git diff --cached
