@@ -4,7 +4,7 @@ Git Intro Activity
 Form teams
 ----------
 
-Form a 3-person team. If you can't form a team of 3, form a team of 2.
+Form a 2-person team. Try to find someone who uses the same platform as you (e.g., Windows, Linux, etc.). If you can't, that's fine. If you are the odd-person-out, join a team of 2.
 
 Assign the following roles to the members of your team. If you are in a
 team of 2, assign the recorder and navigator roles to the same person.
@@ -13,9 +13,14 @@ Roles:
 
 -   Driver: Creates and maintains a local git repository.
 
--   Navigator: Ensures that the team follows the activity.
+-   Navigator: Reads instructions and records answers.
 
--   Recorder: Records all answers and questions.
+3rd person role (if you have a 3-person team):
+
+-   Quality Assurance Person: Ensures instructions are being carried out correctly, answers are clear, and looks for ways for the team to work together more effectively.
+
+You will be rotating roles. Your instructor will let you know when to switch roles. Switching roles requires switching computers. So plan accordingly.
+
 
 Objectives
 ----------
@@ -146,7 +151,7 @@ Use a plain text editor to create the following files:
 Run `git status` before and after each of these commands.
 
     git add .
-    git commit		Note:  Commit will open the vim editor; write a multi-line commit 
+    git commit		Note:  Commit will open the vim editor; write a multi-line commit
 						   message, save and quit (press esc and then type :wq).
     git log
 
@@ -241,10 +246,10 @@ Run the following commands:
 Run the following commands:
 
     git commit –m "Redo."
-    git log 
-    git status 
-    git reset --hard "HEAD^" 
-    git log 
+    git log
+    git status
+    git reset --hard "HEAD^"
+    git log
     git status
 
 1.  What does `git reset --hard ``"HEAD^"`` `do?
