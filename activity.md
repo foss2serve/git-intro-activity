@@ -87,23 +87,11 @@ Run the following commands.
 
 ```
 
-
-
-```
-
 2.  What does `-ag` cause `git help` to do?
 
 ```
 
-
-
-```
-
 3.  What does `git help command` do?
-
-```
-
-
 
 ```
 
@@ -126,15 +114,7 @@ consider changing this configuration before you walk away.
 
 ```
 
-
-
-```
-
 2.  What is the purpose of `--global`?
-
-```
-
-
 
 ```
 
@@ -153,15 +133,8 @@ location where you would like your repository stored.
 ```
 
 
-
-```
-
 2.  By default any file that starts with `.` is hidden. How do you
     display a hidden file?
-
-```
-
-
 
 ```
 
@@ -169,16 +142,8 @@ location where you would like your repository stored.
 
 ```
 
-
-
-```
-
 4.  You find an old project on your hard drive. You do not remember if
     it is a under version control by git. How can you find out?
-
-```
-
-
 
 ```
 
@@ -198,23 +163,11 @@ Run `git status` before and after each of these commands.
 
 ```
 
-
-
-```
-
 2.  What does `git add names.txt` do?
 
 ```
 
-
-
-```
-
 3.  What does `git commit -m "Add our names."` do?
-
-```
-
-
 
 ```
 
@@ -235,15 +188,7 @@ Run `git status` before and after each of these commands.
 
 ```
 
-
-
-```
-
 5.  What does `git commit` (without -m) do?
-
-```
-
-
 
 ```
 
@@ -252,15 +197,7 @@ Run `git status` before and after each of these commands.
 
 ```
 
-
-
-```
-
 7.  What does `git log do`?
-
-```
-
-
 
 ```
 
@@ -291,23 +228,11 @@ Run the following commands:
 
 ```
 
-
-
-```
-
     **Unstaged**
 
 ```
 
-
-
-```
-
     **Untracked**
-
-```
-
-
 
 ```
 
@@ -316,23 +241,11 @@ Run the following commands:
 
 ```
 
-
-
-```
-
 2.  What command do you run to stage changes?
 
 ```
 
-
-
-```
-
 3.  What command do you run to unstage changes?
-
-```
-
-
 
 ```
 
@@ -345,15 +258,7 @@ Run the following commands:
 
 ```
 
-
-
-```
-
 2.  What does `git diff --cached` display?
-
-```
-
-
 
 ```
 
@@ -363,17 +268,9 @@ Run the following commands:
 
 ```
 
-
-
-```
-
 4.  Edit `movies.txt`, change any one of the movies, and save it. Then
     run `git status`. What do you observe? Explain what you think is
     going on.
-
-```
-
-
 
 ```
 
@@ -382,16 +279,8 @@ Run the following commands:
 
 ```
 
-
-
-```
-
 6.  Rename `movies.txt` to `last-movies`. Run `git status`. Observe
     and explain.
-
-```
-
-
 
 ```
 
@@ -401,25 +290,13 @@ Run the following commands:
 
 ```
 
-
-
-```
-
 8.  In git vernacular, `index`, `cache`, and `stage` all refer to the
     same thing. What does it hold?
 
 ```
 
-
-
-```
-
 9.  Why have a `stage`? Why not just commit all changes since the last
     commit?
-
-```
-
-
 
 ```
 
@@ -438,10 +315,6 @@ Run the following commands:
 
 ```
 
-
-
-```
-
 Run the following commands:
 
     git commit –m "Redo."
@@ -455,15 +328,7 @@ Run the following commands:
 
 ```
 
-
-
-```
-
 2.  What is the difference between `--hard` and `--soft`?
-
-```
-
-
 
 ```
 
@@ -471,15 +336,7 @@ Run the following commands:
 
 ```
 
-
-
-```
-
 4.  What do you think `HEAD^` means?
-
-```
-
-
 
 ```
 
