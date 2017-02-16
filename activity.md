@@ -230,7 +230,7 @@ Use a plain text editor to create the following files:
 
 -   `birthdays.txt` - Put your birthdays in this file.
 
--   `movies.txt` - Put the last movie each of you watched.
+-   `movies.txt` - Put the last movie each of you watched in alphabetical order.
 
 Run `git status` before and after each of these commands.
 
