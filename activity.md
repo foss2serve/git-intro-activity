@@ -98,6 +98,12 @@ your name and email.
     git config --global user.name 'BOGUS NAME'
     git config --global user.email 'BOGUS@EMAIL'
 
+WARNING: The name and email you give will be listed on each commit you make.
+If this repository is ever published, your name and email on every commit
+will be too. Also, if you are working on a shared computer, you should
+consider changing this configuration before you walk away.
+
+
 1.  What are these commands doing?
 
 2.  What is the purpose of `--global`?
