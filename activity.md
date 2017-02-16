@@ -1,8 +1,8 @@
 Git Intro Activity
 ==================
 
-Form teams
-----------
+A. Form teams
+-------------
 
 Form a 2-person team. Try to find someone who uses the same platform as you (e.g., Windows, Linux, etc.). If you can't, that's fine. If you are the odd-person-out, join a team of 2.
 
@@ -22,8 +22,8 @@ Roles:
 You will be rotating roles. Your instructor will let you know when to switch roles. Switching roles requires switching computers. So plan accordingly.
 
 
-Objectives
-----------
+B. Objectives
+-------------
 
 After completing this tutorial you will be able to...
 
@@ -52,10 +52,8 @@ become familiar with basic git commands and to produce notes that you
 can refer back to later. Don’t worry too much about accuracy, for each
 question, provide your best answer and move on to the next question.
 
-Setup
------
-
-### Git
+C. Download and install Git
+---------------------------
 
 Download and install git for your operating system:
 
@@ -74,8 +72,8 @@ Starting a terminal:
 
 -   **Linux:** will vary depending on your window manager
 
-<span id="ssh" class="anchor"><span id="help" class="anchor"></span></span>Help
--------------------------------------------------------------------------------
+D. Getting help
+---------------
 
 Run the following commands.
 
@@ -98,8 +96,8 @@ Run the following commands.
 
     ```
 
-Identify yourself
------------------
+E. Identify yourself
+--------------------
 
 Run the following commands, replacing BOGUS NAME and BOGUS@EMAIL with
 your name and email.
@@ -129,8 +127,8 @@ consider changing this configuration before you walk away.
 
     ```
 
-Create repository
------------------
+F. Create a repository
+----------------------
 
 From the command line, run the following commands.
 
@@ -190,8 +188,8 @@ cd first_project
 
     ```
 
-Basic commands
---------------
+G. Basic commands
+-----------------
 
 Use a plain text editor to create `names.txt` inside the `first_project`
 folder. Put the names of your team in the file. Save and exit.
@@ -273,8 +271,8 @@ Run `git status` before and after each of these commands.
     ```
 
 
-Stage/Cache/Index
------------------
+H. Stage/Cache/Index
+--------------------
 
 Do the following:
 
@@ -431,8 +429,8 @@ Run the following commands:
 
     ```
 
-Undo
-----
+I. Undo
+-------
 
 Run the following commands:
 
@@ -489,8 +487,8 @@ Run the following commands:
 
     ```
 
-Helpful resources
------------------
+J. Helpful resources
+--------------------
 
 -   <https://git-scm.com/doc>
 
@@ -498,8 +496,8 @@ Helpful resources
 
 -   <https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf>
 
-Copyright and Licensing
------------------------
+K. Copyright and Licensing
+--------------------------
 
 Copyright 2016, Darci Burdge and Stoney Jackson SOME RIGHTS RESERVED
 
