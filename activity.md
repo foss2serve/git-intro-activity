@@ -85,16 +85,37 @@ Run the following commands.
 
 1.  What does `git help` do?
 
-```
+    ```
 
+<<<<<<< HEAD
+=======
+
+
+    ```
+
+>>>>>>> 42300a82cbf4caefca54c0d421b2d469bb0b4e06
 2.  What does `-ag` cause `git help` to do?
 
-```
+    ```
 
+<<<<<<< HEAD
+=======
+
+
+    ```
+
+>>>>>>> 42300a82cbf4caefca54c0d421b2d469bb0b4e06
 3.  What does `git help command` do?
 
-```
+    ```
 
+<<<<<<< HEAD
+=======
+
+
+    ```
+
+>>>>>>> 42300a82cbf4caefca54c0d421b2d469bb0b4e06
 Identify yourself
 -----------------
 
@@ -112,12 +133,26 @@ consider changing this configuration before you walk away.
 
 1.  What are these commands doing?
 
-```
+    ```
 
+<<<<<<< HEAD
+=======
+
+
+    ```
+
+>>>>>>> 42300a82cbf4caefca54c0d421b2d469bb0b4e06
 2.  What is the purpose of `--global`?
 
-```
+    ```
 
+<<<<<<< HEAD
+=======
+
+
+    ```
+
+>>>>>>> 42300a82cbf4caefca54c0d421b2d469bb0b4e06
 Create repository
 -----------------
 
@@ -130,23 +165,50 @@ location where you would like your repository stored.
 
 1.  What was created by `git init`?
 
-```
+    ```
 
 
+<<<<<<< HEAD
+=======
+
+    ```
+
+>>>>>>> 42300a82cbf4caefca54c0d421b2d469bb0b4e06
 2.  By default any file that starts with `.` is hidden. How do you
     display a hidden file?
 
-```
+    ```
 
+<<<<<<< HEAD
+=======
+
+
+    ```
+
+>>>>>>> 42300a82cbf4caefca54c0d421b2d469bb0b4e06
 3.  What would happen if you delete `.git`?
 
-```
+    ```
 
+<<<<<<< HEAD
+=======
+
+
+    ```
+
+>>>>>>> 42300a82cbf4caefca54c0d421b2d469bb0b4e06
 4.  You find an old project on your hard drive. You do not remember if
     it is a under version control by git. How can you find out?
 
-```
+    ```
 
+<<<<<<< HEAD
+=======
+
+
+    ```
+
+>>>>>>> 42300a82cbf4caefca54c0d421b2d469bb0b4e06
 Basic commands
 --------------
 
@@ -161,16 +223,37 @@ Run `git status` before and after each of these commands.
 
 1.  What kind of information does `git status` report?
 
-```
+    ```
 
+<<<<<<< HEAD
+=======
+
+
+    ```
+
+>>>>>>> 42300a82cbf4caefca54c0d421b2d469bb0b4e06
 2.  What does `git add names.txt` do?
 
-```
+    ```
 
+<<<<<<< HEAD
+=======
+
+
+    ```
+
+>>>>>>> 42300a82cbf4caefca54c0d421b2d469bb0b4e06
 3.  What does `git commit -m "Add our names."` do?
 
-```
+    ```
 
+<<<<<<< HEAD
+=======
+
+
+    ```
+
+>>>>>>> 42300a82cbf4caefca54c0d421b2d469bb0b4e06
 Use a plain text editor to create the following files:
 
 -   `birthdays.txt` - Put your birthdays in this file.
@@ -186,22 +269,50 @@ Run `git status` before and after each of these commands.
 
 4.  What does `git add .` do? What do you think `.` means?
 
-```
+    ```
 
+<<<<<<< HEAD
+=======
+
+
+    ```
+
+>>>>>>> 42300a82cbf4caefca54c0d421b2d469bb0b4e06
 5.  What does `git commit` (without -m) do?
 
-```
+    ```
 
+<<<<<<< HEAD
+=======
+
+
+    ```
+
+>>>>>>> 42300a82cbf4caefca54c0d421b2d469bb0b4e06
 6.  If you want to write a more detailed commit message (which is
     good practice) what command would you use?
 
-```
+    ```
 
+<<<<<<< HEAD
+=======
+
+
+    ```
+
+>>>>>>> 42300a82cbf4caefca54c0d421b2d469bb0b4e06
 7.  What does `git log do`?
 
-```
+    ```
 
 
+<<<<<<< HEAD
+=======
+
+    ```
+
+
+>>>>>>> 42300a82cbf4caefca54c0d421b2d469bb0b4e06
 Stage/Cache/Index
 -----------------
 
@@ -226,29 +337,71 @@ Run the following commands:
 
     **Staged**
 
-```
+    ```
 
+<<<<<<< HEAD
+=======
+
+
+    ```
+
+>>>>>>> 42300a82cbf4caefca54c0d421b2d469bb0b4e06
     **Unstaged**
 
-```
+    ```
 
+<<<<<<< HEAD
+=======
+
+
+    ```
+
+>>>>>>> 42300a82cbf4caefca54c0d421b2d469bb0b4e06
     **Untracked**
 
-```
+    ```
 
+<<<<<<< HEAD
+=======
+
+
+    ```
+
+>>>>>>> 42300a82cbf4caefca54c0d421b2d469bb0b4e06
 1.  If you run `git commit` what changes will be committed (***don't do
     it***)?
 
-```
+    ```
 
+<<<<<<< HEAD
+=======
+
+
+    ```
+
+>>>>>>> 42300a82cbf4caefca54c0d421b2d469bb0b4e06
 2.  What command do you run to stage changes?
 
-```
+    ```
 
+<<<<<<< HEAD
+=======
+
+
+    ```
+
+>>>>>>> 42300a82cbf4caefca54c0d421b2d469bb0b4e06
 3.  What command do you run to unstage changes?
 
-```
+    ```
 
+<<<<<<< HEAD
+=======
+
+
+    ```
+
+>>>>>>> 42300a82cbf4caefca54c0d421b2d469bb0b4e06
 Run the following commands:
 
     git diff
@@ -256,50 +409,113 @@ Run the following commands:
 
 1.  What does `git diff` display?
 
-```
+    ```
 
+<<<<<<< HEAD
+=======
+
+
+    ```
+
+>>>>>>> 42300a82cbf4caefca54c0d421b2d469bb0b4e06
 2.  What does `git diff --cached` display?
 
-```
+    ```
 
+<<<<<<< HEAD
+=======
+
+
+    ```
+
+>>>>>>> 42300a82cbf4caefca54c0d421b2d469bb0b4e06
 3.  Formulate a sequence of commands to unstage changes to `names.txt`,
     and stage the changes to `movies.txt`. Execute your commands and
     confirm they worked.
 
-```
+    ```
 
+<<<<<<< HEAD
+=======
+
+
+    ```
+
+>>>>>>> 42300a82cbf4caefca54c0d421b2d469bb0b4e06
 4.  Edit `movies.txt`, change any one of the movies, and save it. Then
     run `git status`. What do you observe? Explain what you think is
     going on.
 
-```
+    ```
 
+<<<<<<< HEAD
+=======
+
+
+    ```
+
+>>>>>>> 42300a82cbf4caefca54c0d421b2d469bb0b4e06
 5.  Delete `names.txt`. Then run `git status`. What do you observe?
     Explain what you think is going on.
 
-```
+    ```
 
+<<<<<<< HEAD
+=======
+
+
+    ```
+
+>>>>>>> 42300a82cbf4caefca54c0d421b2d469bb0b4e06
 6.  Rename `movies.txt` to `last-movies`. Run `git status`. Observe
     and explain.
 
-```
+    ```
 
+<<<<<<< HEAD
+=======
+
+
+    ```
+
+>>>>>>> 42300a82cbf4caefca54c0d421b2d469bb0b4e06
 7.  Formulate a sequence of commands to stage all changes including the
     untracked file and commit (with any reasonable message you like).
     Execute them.
 
-```
+    ```
 
+<<<<<<< HEAD
+=======
+
+
+    ```
+
+>>>>>>> 42300a82cbf4caefca54c0d421b2d469bb0b4e06
 8.  In git vernacular, `index`, `cache`, and `stage` all refer to the
     same thing. What does it hold?
 
-```
+    ```
 
+<<<<<<< HEAD
+=======
+
+
+    ```
+
+>>>>>>> 42300a82cbf4caefca54c0d421b2d469bb0b4e06
 9.  Why have a `stage`? Why not just commit all changes since the last
     commit?
 
-```
+    ```
 
+<<<<<<< HEAD
+=======
+
+
+    ```
+
+>>>>>>> 42300a82cbf4caefca54c0d421b2d469bb0b4e06
 Undo
 ----
 
@@ -313,8 +529,15 @@ Run the following commands:
 
 1.  What does `git reset --soft ``"HEAD^" `do?
 
-```
+    ```
 
+<<<<<<< HEAD
+=======
+
+
+    ```
+
+>>>>>>> 42300a82cbf4caefca54c0d421b2d469bb0b4e06
 Run the following commands:
 
     git commit –m "Redo."
@@ -326,20 +549,48 @@ Run the following commands:
 
 1.  What does `git reset --hard ``"HEAD^"`` `do?
 
-```
+    ```
 
+<<<<<<< HEAD
+=======
+
+
+    ```
+
+>>>>>>> 42300a82cbf4caefca54c0d421b2d469bb0b4e06
 2.  What is the difference between `--hard` and `--soft`?
 
-```
+    ```
 
+<<<<<<< HEAD
+=======
+
+
+    ```
+
+>>>>>>> 42300a82cbf4caefca54c0d421b2d469bb0b4e06
 3.  What do you think `HEAD` means?
 
-```
+    ```
 
+<<<<<<< HEAD
+=======
+
+
+    ```
+
+>>>>>>> 42300a82cbf4caefca54c0d421b2d469bb0b4e06
 4.  What do you think `HEAD^` means?
 
-```
+    ```
 
+<<<<<<< HEAD
+=======
+
+
+    ```
+
+>>>>>>> 42300a82cbf4caefca54c0d421b2d469bb0b4e06
 Helpful resources
 -----------------
 
