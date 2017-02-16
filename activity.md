@@ -218,14 +218,6 @@ Run `git status` before and after each of these commands.
 
 ```
 
-4.  What does `git log do`?
-
-```
-
-
-
-```
-
 Use a plain text editor to create the following files:
 
 -   `birthdays.txt` - Put your birthdays in this file.
@@ -239,7 +231,7 @@ Run `git status` before and after each of these commands.
 						   message, save and quit (press esc and then type :wq).
     git log
 
-5.  What does `git add .` do? What do you think `.` means?
+4.  What does `git add .` do? What do you think `.` means?
 
 ```
 
@@ -247,7 +239,7 @@ Run `git status` before and after each of these commands.
 
 ```
 
-6.  What does `git commit` (without -m) do?
+5.  What does `git commit` (without -m) do?
 
 ```
 
@@ -255,7 +247,7 @@ Run `git status` before and after each of these commands.
 
 ```
 
-7.  If you want to write a more detailed commit message (which is
+6.  If you want to write a more detailed commit message (which is
     good practice) what command would you use?
 
 ```
@@ -263,6 +255,15 @@ Run `git status` before and after each of these commands.
 
 
 ```
+
+7.  What does `git log do`?
+
+```
+
+
+
+```
+
 
 Stage/Cache/Index
 -----------------
