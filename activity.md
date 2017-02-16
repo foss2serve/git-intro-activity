@@ -87,9 +87,6 @@ Run the following commands.
 
     ```
 
-<<<<<<< HEAD
-=======
-
 
     ```
 
@@ -573,9 +570,6 @@ Run the following commands:
 
     ```
 
-<<<<<<< HEAD
-=======
-
 
     ```
 
@@ -583,9 +577,6 @@ Run the following commands:
 4.  What do you think `HEAD^` means?
 
     ```
-
-<<<<<<< HEAD
-=======
 
 
     ```
