@@ -1,7 +1,7 @@
 Command Line Cheat Sheet
 ========================
 
-vi/m
+vi (or vim)
 ----
 
     i - Enter insert mode.
@@ -12,7 +12,8 @@ bash
 ----
 
     pwd                 Print working directory.
-    ls                  List the contents of working directory.
+    ls                  List contents of working directory.
+    ls -a		List contents of working directory including hidden files.
     mkdir DIRECTORY     Create DIRECTORY.
     cd DIRECTORY        Change into DIRECTORY.
     cd ..               Change into parent of working directory.
@@ -23,7 +24,8 @@ bash
 cmd
 ---
 
-    dir                 List the contents of working directory.
+    dir                 List contents of working directory.
+    dir /a              List contents of working directory including hidden files.
 
     mkdir DIRECTORY     Create DIRECTORY.
     cd DIRECTORY        Change into DIRECTORY.
@@ -42,7 +44,8 @@ cmd
 
     Windows Path 
 
-    You may need to modify your path so that the …\PortableGit and …\PortableGit\usr\bin folders are accessible from the command line
+    You may need to modify your path so that the …\PortableGit and
+    …\PortableGit\usr\bin folders are accessible from the command line
 
 Copyright and Licensing
 -----------------------
