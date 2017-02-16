@@ -467,7 +467,7 @@ Run the following commands:
 
 ```
 
-3.  What do you think `HEAD^1` means?
+3.  What do you think `HEAD` means?
 
 ```
 
@@ -475,7 +475,7 @@ Run the following commands:
 
 ```
 
-4.  What do you think `HEAD` means?
+4.  What do you think `HEAD^` means?
 
 ```
 
