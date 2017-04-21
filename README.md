@@ -58,6 +58,25 @@ Participants will be able to:
 - 30-50 min: Supervise teams as they work through activity.docx
 - 5-10 min: Discuss responses to key questions; this can be done along the way
 
+## FAQ
+
+Here are some common questions that students may ask.
+
+1. __Why stage?__
+    Staging commits gives developers fine-grain control over what to commit. Here are are some references on the subject:
+    - https://softwareengineering.stackexchange.com/questions/69178/what-is-the-benefit-of-gits-two-stage-commit-process-staging
+    - http://stackoverflow.com/questions/4878358/why-would-i-want-stage-before-committing-in-git
+    - http://gitolite.com/uses-of-index.html
+
+2. __What's the difference between  `git add .` and `git add -A .`?__ As of Git 2.0, nothing. The both stage all modifications recursively starting in the current directory `.`.
+
+3. __What is the meaning of HEAD?__ HEAD refers to the branch or commit currently checked out.
+
+4. __What is the meaning of `^` in `HEAD^`?__  "Parent". `HEAD^` is the parent of HEAD.
+
+5. __What's the difference between `git commit -a` and `git add . ; git commit`?__ `git commit -a` will only stage changes in ___tracked___ files. `git add .` adds changes in ___all___ files (that are not ignored). So it will add changes in untracked files too.
+
+
 ## License
 
 (c) 2016 Darci Burdge and Stoney Jackson SOME RIGHTS RESERVED
