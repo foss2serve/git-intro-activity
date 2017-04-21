@@ -68,7 +68,7 @@ Here are some common questions that students may ask.
     - http://stackoverflow.com/questions/4878358/why-would-i-want-stage-before-committing-in-git
     - http://gitolite.com/uses-of-index.html
 
-2. __What's the difference between  `git add .` and `git add -A .`?__ As of Git 2.0, nothing. The both stage all modifications recursively starting in the current directory `.`.
+2. __What's the difference between  `git add .` and `git add -A .`?__ As of Git 2.0, nothing; they both stage all modifications recursively starting in the current directory.
 
 3. __What is the meaning of HEAD?__ HEAD refers to the branch or commit currently checked out.
 
