@@ -457,7 +457,7 @@ Run the following commands:
     git log
     git status
 
-1.  What does `git reset --hard ``"HEAD^"`` `do?
+1.  What does `git reset --hard "HEAD^"`` `do?
 
     ```
 
