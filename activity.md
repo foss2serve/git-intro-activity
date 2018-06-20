@@ -22,35 +22,11 @@ Roles:
 You will be rotating roles. Your instructor will let you know when to switch roles. Switching roles requires switching computers. So plan accordingly.
 
 
-B. Objectives
+B. Setup
 -------------
 
-After completing this tutorial you will be able to...
-
--   Configure git.
-
--   Make and commit changes to a repository.
-
--   Add new files to a repository.
-
--   Remove a file from a repository.
-
--   Modify a file and commit the change.
-
--   Stage changes for commit.
-
--   Unstage changes for commit.
-
--   Explain the purpose of the stage/cache/index.
-
--   Inspect the state of a repository.
-
--   Undo a commit.
-
-Throughout the tutorial you will be asked many questions. The goal is to
-become familiar with basic git commands and to produce notes that you
-can refer back to later. Don’t worry too much about accuracy, for each
-question, provide your best answer and move on to the next question.
+1. Create and share a shared document (Google Doc, etherpad, etc.) for your team.
+2. Copy and past this document into your shared document.
 
 C. Download and install Git
 ---------------------------
