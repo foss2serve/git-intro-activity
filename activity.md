@@ -494,7 +494,7 @@ J. Helpful resources
 
 -   <https://www.atlassian.com/git/tutorials/>
 
--   <https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf>
+-   <https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf>
 
 K. Copyright and Licensing
 --------------------------
