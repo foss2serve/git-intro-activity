@@ -262,7 +262,7 @@ Run `git status` before and after each of these commands.
 
     ```
 
-7.  What does `git log do`?
+7.  What does `git log` do?
 
     ```
 
