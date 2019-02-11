@@ -26,7 +26,7 @@ B. Setup
 -------------
 
 1. Create and share a shared document (Google Doc, etherpad, etc.) for your team.
-2. Copy and past this document into your shared document.
+2. Copy and paste this document into your shared document.
 
 C. Download and install Git
 ---------------------------
