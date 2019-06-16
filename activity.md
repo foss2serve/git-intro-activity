@@ -19,19 +19,19 @@ Roles:
 
 -   Quality Assurance Person: Ensures instructions are being carried out correctly, answers are clear, and looks for ways for the team to work together more effectively.
 
-You will be rotating roles. Your instructor will let you know when to switch roles. Switching roles requires switching computers. So plan accordingly.
+You will be rotating roles. Your instructor will let you know when to switch roles. Switching roles requires switching computers. So, plan accordingly.
 
 
 B. Setup
 -------------
 
-1. Create and share a shared document (Google Doc, etherpad, etc.) for your team.
+1. Create and share a shared document (Google Doc, Etherpad, etc.) for your team.
 2. Copy and paste this document into your shared document.
 
 C. Download and install Git
 ---------------------------
 
-Download and install git for your operating system:
+Download and install Git for your operating system:
 
 -   <https://git-scm.com/downloads>
 
@@ -156,7 +156,7 @@ cd first_project
 4.  Using your observations to the previous questions, answer the following.
     You find an old project on your hard drive. You do not remember if
     it is a under version control. What could you look for to determine
-    if the project is being managed using git?
+    if the project is being managed using Git?
 
     ```
 
@@ -266,8 +266,7 @@ Run the following commands:
     git add names.txt
     git status
 
-1.  Below write each file name under the state that its changes are
-    currently in. Compose a definition for each state.
+1.  Categorize the state of each file by writing each file name under the appropriate state below. Compose a definition for each state.
 
     **Staged**
 
@@ -387,7 +386,7 @@ Run the following commands:
 
     ```
 
-8.  In git vernacular, `index`, `cache`, and `stage` all refer to the
+8.  In Git vernacular, `index`, `cache`, and `stage` all refer to the
     same thing. What does it hold?
 
     ```
