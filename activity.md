@@ -60,14 +60,14 @@ Run the following commands.
 1.  What does `git help` do?
 
     ```
-
+git help gives you commands and tell you what they do
 
     ```
 
 2.  What does `-ag` cause `git help` to do?
 
     ```
-
+git help -ag list available subcommands and some concept guides.
 
 
     ```
@@ -91,15 +91,14 @@ consider changing this configuration before you walk away.
 
     ```
 
-
+These commands identifies you so that whatever changes you make on the repo will be  published with your name and email on every commit.
 
     ```
 
 2.  What is the purpose of `--global`?
 
     ```
-
-
+the purpose of --global is to connect your github and terminal
 
     ```
 
@@ -117,7 +116,7 @@ cd first_project
     display a hidden file?
 
     ```
-
+dir /a
 
     ```
 
@@ -125,7 +124,7 @@ cd first_project
 
     ```
 
-
+no there isn't
 
     ```
 
@@ -140,7 +139,7 @@ cd first_project
 
     ```
 
-
+nothing
 
     ```
 
@@ -149,7 +148,7 @@ cd first_project
 
     ```
 
-
+I believe the directory won't be able to be found so it would cause errors
 
     ```
 
@@ -159,7 +158,7 @@ cd first_project
     if the project is being managed using Git?
 
     ```
-
+I would use git status to see if the project was made with git
 
 
     ```
@@ -179,8 +178,7 @@ Run `git status` before and after each of these commands.
 1.  What kind of information does `git status` report?
 
     ```
-
-
+This command will show the current status of the project, including information about untracked and modified files.
 
     ```
 
@@ -189,14 +187,13 @@ Run `git status` before and after each of these commands.
     ```
 
 
-
     ```
 
 3.  What does `git commit -m "Add our names."` do?
 
     ```
 
-
+This command commits all changes
 
     ```
 
@@ -271,7 +268,7 @@ Run the following commands:
     **Staged**
 
     ```
-
+name.txt
 
 
     ```
@@ -287,8 +284,9 @@ Run the following commands:
     **Untracked**
 
     ```
-
-
+birthdays.txt
+foods.txt
+movies.txt
 
     ```
 
@@ -296,7 +294,7 @@ Run the following commands:
     it***)?
 
     ```
-
+it will save the changes 
 
 
     ```
@@ -305,7 +303,7 @@ Run the following commands:
 
     ```
 
-
+git add
 
     ```
 
@@ -313,7 +311,7 @@ Run the following commands:
 
     ```
 
-
+git reset
 
     ```
 
@@ -325,7 +323,7 @@ Run the following commands:
 1.  What does `git diff` display?
 
     ```
-
+this command displays the differences, or changes, between two sets of code
 
 
     ```
@@ -333,8 +331,7 @@ Run the following commands:
 2.  What does `git diff --cached` display?
 
     ```
-
-
+this command displays the differences between the files that have been staged
 
     ```
 
@@ -343,7 +340,7 @@ Run the following commands:
     confirm they worked.
 
     ```
-
+it worked
 
 
     ```
@@ -354,7 +351,7 @@ Run the following commands:
 
     ```
 
-
+I think that the git status updates all changes that are made to the files
 
     ```
 
@@ -363,7 +360,7 @@ Run the following commands:
 
     ```
 
-
+It shows what file is deleted
 
     ```
 
@@ -371,7 +368,7 @@ Run the following commands:
     and explain.
 
     ```
-
+It updated the name change
 
 
     ```
@@ -391,7 +388,7 @@ Run the following commands:
 
     ```
 
-
+It holds the set of changes that are marked for the next commit
 
     ```
 
@@ -400,7 +397,7 @@ Run the following commands:
 
     ```
 
-
+The staging area provides an opportunity to review and validate your changes before they become part of the permanent history. 
 
     ```
 
@@ -419,7 +416,7 @@ Run the following commands:
 
     ```
 
-
+it undoes the last commit while keeping the changes from that commit in the staging area. 
 
     ```
 
@@ -435,7 +432,7 @@ Run the following commands:
 1.  What does `git reset --hard "HEAD^"`` `do?
 
     ```
-
+it used to erase the last commit and all changes associated with it, both staged and unstaged. 
 
 
     ```
@@ -443,7 +440,7 @@ Run the following commands:
 2.  What is the difference between `--hard` and `--soft`?
 
     ```
-
+hard discards changes while soft perserves changes
 
 
     ```
@@ -451,14 +448,14 @@ Run the following commands:
 3.  What do you think `HEAD` means?
 
     ```
-
+I think it shows latest commit
 
     ```
 
 4.  What do you think `HEAD^` means?
 
     ```
-
+I think it shows the last commit that was made.
 
     ```
 
